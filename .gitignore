@@ -1,0 +1,4 @@
+config/config.local.php
+data/institutions.csv
+kmz/institutions.kml
+kmz/institutions.kmz

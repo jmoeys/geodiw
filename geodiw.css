@@ -1,0 +1,134 @@
+body {
+  font-family: clean,sans-serif;
+  font-size: 18px;
+  top-margin: 3em; 
+  bottom-margin: 3em; 
+  left-margin: 10%; 
+  right-margin: 10%; 
+}
+
+
+
+h1 {
+  border-left: 4px solid #8a5c2e;
+  border-right: 4px solid #8a5c2e;
+  padding: 5px 1px 5px 10px;
+  background: #f0e0b2;
+  margin-left: 0px;
+  font-family: clean,sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  border-left: 4px solid #a17d58;
+  padding: 5px 1px 5px 10px;
+  margin-left: 20px;
+  font-family: clean,sans-serif;
+  font-size: 30px;
+}
+
+h3 {
+  border-left: 1px solid #a17d58;
+  padding: 5px 1px 5px 10px;
+  margin-left: 40px;
+  font-family: clean,sans-serif;
+  font-size: 20px;
+}
+
+ul.geodiwMenu {
+  border-left: 4px solid #8a5c2e;
+  border-right: 4px solid #8a5c2e;
+  padding: 0 5px;
+  background: #f0e0b2;
+  overflow: hidden;
+  font-size: 20px;
+  color: #6e4a25;
+}
+
+ul.geodiwMenu li {
+  padding: 7px 8px;
+  float: left;
+  list-style-type: none;
+}
+
+a {
+  color: #6e4a25;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+div.footer {
+  border-top: 1px solid #cccccc;
+  padding: 0.5em;
+  font-size: 0.5em;
+}
+
+body {
+  margin: 3em 10%;
+}
+
+table.geodiwTable th {
+  background: #f0e0b2;
+  border-left: 0px solid #8a5c2e;
+  border-right: 0px solid #8a5c2e;
+  padding-right: 5px;
+  padding-left: 5px;
+  border-collapse: collapse;
+}
+
+table.geodiwTable td {
+  border: 0px solid #8a5c2e;
+  padding: 5px;
+  background-color: #ebebe0;
+  border-collapse: collapse;
+  vertical-align: top;
+}
+
+/*
+geodiwform {
+  border-color: #dcdcdc;
+  background-color: #f0e0b2;
+}
+
+geodiwform:active {
+  border-color: #8a5c2e;
+}
+*/
+
+table.ghost {
+  border: 0px solid #ffffff;
+  padding: 5px;
+  vertical-align: top;
+  border-collapse: collapse;
+}
+
+.geodiwButton {
+  border: 1px solid #cccccc;
+  margin: 5px;
+  padding: 5px;
+  top: 5px;
+  font-weight: bold;
+  left: 5px;
+  background-color: #e8e8e8;
+  color: #666666;
+  right: 5px;
+  bottom: 5px;
+}
+
+.geodiwButton:hover {
+  text-decoration: underline;
+  border-color: #8a5c2e;
+}
+
+.geodiwButton2 {
+  color: #CC0000;
+}
+
+input:hover { 
+    border-color: #8a5c2e; 
+}   
+
